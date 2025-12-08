@@ -26,8 +26,21 @@ a = 10
 
 # Logical Operators :-
 
-a = True
-b = False
-print( a and b )  
-print( a or b )
-print ( not a)
+# a = True
+# b = False
+# print( a and b )  
+# print( a or b )
+# print ( not a)
+
+# membership_operator
+Rahul_family = [ 'ravi', 'rahul', 'rohan']  # list
+
+print('rahul'  in Rahul_family)  ##   True
+
+print('Rudra' in Rahul_family)  ## False 
+
+print('SHivam' not in Rahul_family)  # true
+
+print('ravi' not in Rahul_family)  # False
+
+
