@@ -1,0 +1,17 @@
+grammar :                   coding 
+ 
+alphabets/letters           character
+
+group of letters(words)      string
+
+group of words(Sentence)     string
+
+group of sentence(Paragraph)   string
+
+           0 1 2 3 4   => indexing
+           R a h u l
+
+
+
+            R  a  h  u  l
+           -5  4 -3 -2 -1
