@@ -75,9 +75,9 @@
 
 # 12. endswith() => it returns any boolean, accordting to the given condition.
 
-# my_name = "Shivam"
-# print(my_name.endswith("m"))
-# print(my_name.endswith("am"))
+my_name = "Shivam"
+print(my_name.endswith("m"))
+print(my_name.endswith("am"))
 
 
 # my_name = "Tridev"
