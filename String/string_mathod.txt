@@ -1,0 +1,60 @@
+String Methods in Python 
+
+1. upper() – Converts string to uppercase
+
+
+2. lower() – Converts string to lowercase
+
+
+3. capitalize() – Makes first character capital
+
+
+4. title() – Capitalizes first letter of each word
+
+
+5. strip() – Removes spaces from start and end
+
+
+6. lstrip() – Removes spaces from left side
+
+
+7. rstrip() – Removes spaces from right side
+
+
+8. replace(old, new) – Replaces old text with new text
+
+
+9. find() – Returns index of first occurrence
+
+
+10. index() – Same as find but gives error if not found
+
+
+11. count() – Counts occurrences of a character/word
+
+
+12. startswith() – Checks starting characters
+
+
+13. endswith() – Checks ending characters
+
+
+14. split() – Splits string into a list
+
+
+15. join() – Joins list elements into a string
+
+
+16. len() – Returns length of string
+
+
+17. isalpha() – Checks only alphabets
+
+
+18. isdigit() – Checks only digits
+
+
+19. isalnum() – Checks alphabets and numbers
+
+
+20. isspace() – Checks only spaces
