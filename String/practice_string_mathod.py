@@ -35,28 +35,29 @@
 # print(f"Length: {len(word)}")
 # print()
 
-# 6. count() - Count occurrences of a character/substring
-print("=== 6. count() ===")
-text = "mississippi"
-print(f"String: {text}")
-print(f"Count of 's': {text.count('s')}")
-print(f"Count of 'i': {text.count('i')}")
-print(f"Count of 'p': {text.count('p')}")
+# # 6. count() - Count occurrences of a character/substring
+# print("=== 6. count() ===")
+# text = "mississippi"
+# print(f"String: {text}")
+# print(f"Count of 's': {text.count('s')}")
+# print(f"Count of 'i': {text.count('i')}")
+# print(f"Count of 'p': {text.count('p')}")
 
 # # 7. find() - Find first occurrence of substring
 # print("=== 7. find() ===")
 # text = "hello world hello"
 # print(f"String: {text}")
 # print(f"Position of 'world': {text.find('world')}")
-# print(f"Position of 'xyz': {text.find('xyz')}")  # Returns -1 if not found
-# print()
+
 
 # # 8. index() - Similar to find but raises error if not found
 # print("=== 8. index() ===")
 # text = "python"
 # print(f"String: {text}")
 # print(f"Index of 'h': {text.index('h')}")
-# print()
+# print(f"Index of 'n': {text.index('n')}")
+# print(f"Index of 'y': {text.index('y')}")
+
 
 # # 9. replace() - Replace substring with another
 # print("=== 9. replace() ===")
