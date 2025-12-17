@@ -59,12 +59,12 @@
 # print(f"Index of 'y': {text.index('y')}")
 
 
-# # 9. replace() - Replace substring with another
-# print("=== 9. replace() ===")
-# text = "I love coding"
-# print(f"Original: {text}")
-# print(f"Replaced: {text.replace('coding', 'programming')}")
-# print()
+# 9. replace() - Replace substring with another
+print("=== 9. replace() ===")
+text = "I love coding"
+print(f"Original: {text}")
+print(f"Replaced: {text.replace('coding', 'programming')}")
+print()
 
 # # 10. split() - Split string into list
 # print("=== 10. split() ===")
