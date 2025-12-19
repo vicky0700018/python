@@ -89,20 +89,20 @@
 # print(f"After lstrip: '{text.lstrip()}'")
 # print()
 
-# 13. rstrip() - Remove whitespace from right side
-print("=== 13. rstrip() ===")
-text = "   vicky kumar   "
-print(f"Original: '{text}'")
-print(f"After rstrip: '{text.rstrip()}'")
+# # 13. rstrip() - Remove whitespace from right side
+# print("=== 13. rstrip() ===")
+# text = "   vicky kumar   "
+# print(f"Original: '{text}'")
+# print(f"After rstrip: '{text.rstrip()}'")
 
 
-# # 14. startswith() - Check if string starts with substring
-# print("=== 14. startswith() ===")
-# text = "python programming"
-# print(f"String: {text}")
-# print(f"Starts with 'python': {text.startswith('python')}")
-# print(f"Starts with 'java': {text.startswith('java')}")
-# print()
+# 14. startswith() - Check if string starts with substring
+print("=== 14. startswith() ===")
+text = "python programming"
+print(f"String: {text}")
+print(f"Starts with 'python': {text.startswith('python')}")
+print(f"Starts with 'java': {text.startswith('java')}")
+print()
 
 # # 15. endswith() - Check if string ends with substring
 # print("=== 15. endswith() ===")
