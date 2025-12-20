@@ -96,21 +96,21 @@
 # print(f"After rstrip: '{text.rstrip()}'")
 
 
-# 14. startswith() - Check if string starts with substring
-print("=== 14. startswith() ===")
-text = "python programming"
-print(f"String: {text}")
-print(f"Starts with 'python': {text.startswith('python')}")
-print(f"Starts with 'java': {text.startswith('java')}")
-print()
-
-# # 15. endswith() - Check if string ends with substring
-# print("=== 15. endswith() ===")
-# text = "learning.py"
+# # 14. startswith() - Check if string starts with substring
+# print("=== 14. startswith() ===")
+# text = "python programming"
 # print(f"String: {text}")
-# print(f"Ends with '.py': {text.endswith('.py')}")
-# print(f"Ends with '.txt': {text.endswith('.txt')}")
+# print(f"Starts with 'python': {text.startswith('python')}")
+# print(f"Starts with 'java': {text.startswith('java')}")
 # print()
+
+# 15. endswith() - Check if string ends with substring
+print("=== 15. endswith() ===")
+text = "learning.py"
+print(f"String: {text}")
+print(f"Ends with '.py': {text.endswith('.py')}")
+print(f"Ends with '.txt': {text.endswith('.txt')}")
+print()
 
 # # 16. join() - Join list elements with a string
 # print("=== 16. join() ===")
