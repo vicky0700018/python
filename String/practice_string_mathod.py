@@ -104,21 +104,21 @@
 # print(f"Starts with 'java': {text.startswith('java')}")
 # print()
 
-# 15. endswith() - Check if string ends with substring
-print("=== 15. endswith() ===")
-text = "learning.py"
-print(f"String: {text}")
-print(f"Ends with '.py': {text.endswith('.py')}")
-print(f"Ends with '.txt': {text.endswith('.txt')}")
-print()
-
-# # 16. join() - Join list elements with a string
-# print("=== 16. join() ===")
-# words = ["python", "is", "awesome"]
-# print(f"List: {words}")
-# print(f"Joined with space: {' '.join(words)}")
-# print(f"Joined with dash: {'-'.join(words)}")
+# # 15. endswith() - Check if string ends with substring
+# print("=== 15. endswith() ===")
+# text = "learning.py"
+# print(f"String: {text}")
+# print(f"Ends with '.py': {text.endswith('.py')}")
+# print(f"Ends with '.txt': {text.endswith('.txt')}")
 # print()
+
+# 16. join() - Join list elements with a string
+print("=== 16. join() ===")
+words = ["python", "is", "awesome"]
+print(f"List: {words}")
+print(f"Joined with space: {' '.join(words)}")
+print(f"Joined with dash: {'-'.join(words)}")
+print(f"joined with comma: {','.join(words)}")
 
 # # 17. swapcase() - Swap uppercase to lowercase and vice versa
 # print("=== 17. swapcase() ===")
