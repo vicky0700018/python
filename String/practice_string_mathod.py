@@ -122,18 +122,18 @@
 # print(f"joined with underscore: {'_'.join(words)}")
 
 
-# 17. swapcase() - Swap uppercase to lowercase and vice versa
-print("=== 17. swapcase() ===")
-text = "PyThOn PrOgRamMing"
-print(f"Original: {text}")
-print(f"Swapped: {text.swapcase()}")
+# # 17. swapcase() - Swap uppercase to lowercase and vice versa
+# print("=== 17. swapcase() ===")
+# text = "PyThOn PrOgRamMing"
+# print(f"Original: {text}")
+# print(f"Swapped: {text.swapcase()}")
 
 
-# # 18. isdigit() - Check if string contains only digits
-# print("=== 18. isdigit() ===")
-# print(f"'12345'.isdigit(): {'12345'.isdigit()}")
-# print(f"'123abc'.isdigit(): {'123abc'.isdigit()}")
-# print()
+# 18. isdigit() - Check if string contains only digits
+print("=== 18. isdigit() ===")
+print(f"'12345'.isdigit(): {'12345'.isdigit()}")
+print(f"'123abc'.isdigit(): {'123abc'.isdigit()}")
+print(f"'00123'.isdigit(): {'00123'.isdigit()}")
 
 # # 19. isalpha() - Check if string contains only alphabets
 # print("=== 19. isalpha() ===")
