@@ -112,22 +112,22 @@
 # print(f"Ends with '.txt': {text.endswith('.txt')}")
 # print()
 
-# 16. join() - Join list elements with a string
-print("=== 16. join() ===")
-words = ["python", "is", "awesome"]
-print(f"List: {words}")
-print(f"Joined with space: {' '.join(words)}")
-print(f"Joined with dash: {'-'.join(words)}")
-print(f"joined with comma: {','.join(words)}")
-print(f"joined with underscore: {'_'.join(words)}")
+# # 16. join() - Join list elements with a string
+# print("=== 16. join() ===")
+# words = ["python", "is", "awesome"]
+# print(f"List: {words}")
+# print(f"Joined with space: {' '.join(words)}")
+# print(f"Joined with dash: {'-'.join(words)}")
+# print(f"joined with comma: {','.join(words)}")
+# print(f"joined with underscore: {'_'.join(words)}")
 
 
-# # 17. swapcase() - Swap uppercase to lowercase and vice versa
-# print("=== 17. swapcase() ===")
-# text = "PyThOn PrOgRamMing"
-# print(f"Original: {text}")
-# print(f"Swapped: {text.swapcase()}")
-# print()
+# 17. swapcase() - Swap uppercase to lowercase and vice versa
+print("=== 17. swapcase() ===")
+text = "PyThOn PrOgRamMing"
+print(f"Original: {text}")
+print(f"Swapped: {text.swapcase()}")
+
 
 # # 18. isdigit() - Check if string contains only digits
 # print("=== 18. isdigit() ===")
