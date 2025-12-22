@@ -135,17 +135,17 @@
 # print(f"'123abc'.isdigit(): {'123abc'.isdigit()}")
 # print(f"'00123'.isdigit(): {'00123'.isdigit()}")
 
-# 19. isalpha() - Check if string contains only alphabets
-print("=== 19. isalpha() ===")
-print(f"'hello'.isalpha(): {'hello'.isalpha()}")
-print(f"'hello123'.isalpha(): {'hello123'.isalpha()}")
-print(f"'hello world'.isalpha(): {'hello world'.isalpha()}")
+# # 19. isalpha() - Check if string contains only alphabets
+# print("=== 19. isalpha() ===")
+# print(f"'hello'.isalpha(): {'hello'.isalpha()}")
+# print(f"'hello123'.isalpha(): {'hello123'.isalpha()}")
+# print(f"'hello world'.isalpha(): {'hello world'.isalpha()}")
 
-# # 20. isalnum() - Check if string contains alphanumeric characters
-# print("=== 20. isalnum() ===")
-# print(f"'hello123'.isalnum(): {'hello123'.isalnum()}")
-# print(f"'hello 123'.isalnum(): {'hello 123'.isalnum()}")
-# print()
+# 20. isalnum() - Check if string contains alphanumeric characters
+print("=== 20. isalnum() ===")
+print(f"'hello123'.isalnum(): {'hello123'.isalnum()}")
+print(f"'hello 123'.isalnum(): {'hello 123'.isalnum()}")
+print()
 
 # # Combined Practice Examples
 # print("=== COMBINED PRACTICE ===")
