@@ -88,3 +88,11 @@
 # starting point 
 # ending point 
 # GAP ( N - 1 )
+
+
+
+
+
+# state = "Bihar"
+# print(state{0:3})#Bih
+# print(state {0:6:2}) #Bhr
