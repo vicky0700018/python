@@ -129,17 +129,17 @@
 # print(f"Swapped: {text.swapcase()}")
 
 
-# 18. isdigit() - Check if string contains only digits
-print("=== 18. isdigit() ===")
-print(f"'12345'.isdigit(): {'12345'.isdigit()}")
-print(f"'123abc'.isdigit(): {'123abc'.isdigit()}")
-print(f"'00123'.isdigit(): {'00123'.isdigit()}")
+# # 18. isdigit() - Check if string contains only digits
+# print("=== 18. isdigit() ===")
+# print(f"'12345'.isdigit(): {'12345'.isdigit()}")
+# print(f"'123abc'.isdigit(): {'123abc'.isdigit()}")
+# print(f"'00123'.isdigit(): {'00123'.isdigit()}")
 
-# # 19. isalpha() - Check if string contains only alphabets
-# print("=== 19. isalpha() ===")
-# print(f"'hello'.isalpha(): {'hello'.isalpha()}")
-# print(f"'hello123'.isalpha(): {'hello123'.isalpha()}")
-# print()
+# 19. isalpha() - Check if string contains only alphabets
+print("=== 19. isalpha() ===")
+print(f"'hello'.isalpha(): {'hello'.isalpha()}")
+print(f"'hello123'.isalpha(): {'hello123'.isalpha()}")
+print(f"'hello world'.isalpha(): {'hello world'.isalpha()}")
 
 # # 20. isalnum() - Check if string contains alphanumeric characters
 # print("=== 20. isalnum() ===")
