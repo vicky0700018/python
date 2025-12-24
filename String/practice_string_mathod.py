@@ -141,11 +141,11 @@
 # print(f"'hello123'.isalpha(): {'hello123'.isalpha()}")
 # print(f"'hello world'.isalpha(): {'hello world'.isalpha()}")
 
-# 20. isalnum() - Check if string contains alphanumeric characters
-print("=== 20. isalnum() ===")
-print(f"'hello123'.isalnum(): {'hello123'.isalnum()}")
-print(f"'hello 123'.isalnum(): {'hello 123'.isalnum()}")
-print()
+# # 20. isalnum() - Check if string contains alphanumeric characters
+# print("=== 20. isalnum() ===")
+# print(f"'hello123'.isalnum(): {'hello123'.isalnum()}")
+# print(f"'hello 123'.isalnum(): {'hello 123'.isalnum()}")
+# print()
 
 # # Combined Practice Examples
 # print("=== COMBINED PRACTICE ===")
