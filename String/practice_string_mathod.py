@@ -150,22 +150,22 @@
 # # Combined Practice Examples
 # print("=== COMBINED PRACTICE ===")
 
-# Example 1
-email = "  VICKY.KUMAR@GMAIL.COM  "
-clean_email = email.strip().lower()
-print(f"Email processing: {email} => {clean_email}")
+# # Example 1
+# email = "  VICKY.KUMAR@GMAIL.COM  "
+# clean_email = email.strip().lower()
+# print(f"Email processing: {email} => {clean_email}")
 
-# Example 2
-user_input = "vicky kumar"
-formatted = user_input.title()
-print(f"Format name: {user_input} => {formatted}")
+# # Example 2
+# user_input = "vicky kumar"
+# formatted = user_input.title()
+# print(f"Format name: {user_input} => {formatted}")
 
-# Example 3
-csv_data = "apple,banana,orange,grapes"
-fruits = csv_data.split(',')
-print(f"CSV to list: {fruits}")
+# # Example 3
+# csv_data = "apple,banana,orange,grapes"
+# fruits = csv_data.split(',')
+# print(f"CSV to list: {fruits}")
 
-# Example 4
-words = ["learning","python", "is", "fun"]
-sentence = " ".join(words)
-print(f"List to sentence: {sentence}")
+# # Example 4
+# words = ["learning","python", "is", "fun"]
+# sentence = " ".join(words)
+# print(f"List to sentence: {sentence}")
