@@ -6,18 +6,13 @@
 # for i in range(5):
 #                     print(i)
 
-
-
 # ----------------------------------------- 
-
 
 # for tridev in range(0,5):
 #                     print(tridev)
 
-
 # for i in range(0,5):
 #                     print(i)
-
 
 # i => loop variable 
 # starting point => 0 
