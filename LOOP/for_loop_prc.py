@@ -6,18 +6,18 @@
 #     print(i)
 #     print("Hello,world!")
 
-# 2. Loop through a list
-print("\n=== Example 2: Loop through List ===")
-fruits = ["apple", "banana", "cherry", "date"]
-for fruit in fruits:
-    print(f"Fruit: {fruit}")
-    print("I love fruits!")
+# # 2. Loop through a list
+# print("\n=== Example 2: Loop through List ===")
+# fruits = ["apple", "banana", "cherry", "date"]
+# for fruit in fruits:
+#     print(f"Fruit: {fruit}")
+#     print("I love fruits!")
 
-# # 3. Loop with index
-# print("\n=== Example 3: Loop with Index ===")
-# colors = ["red", "green", "blue", "yellow"]
-# for index, color in enumerate(colors):
-#     print(f"{index}: {color}")
+# 3. Loop with index
+print("\n=== Example 3: Loop with Index ===")
+colors = ["red", "green", "blue", "yellow"]
+for index, color in enumerate(colors):
+    print(f"{index}: {color}")
 
 # # 4. Loop through string
 # print("\n=== Example 4: Loop through String ===")
