@@ -18,6 +18,8 @@ print("\n=== Example 3: Loop with Index ===")
 colors = ["red", "green", "blue", "yellow"]
 for index, color in enumerate(colors):
     print(f"{index}: {color}")
+    print("Colors are beautiful!")
+    
 
 # # 4. Loop through string
 # print("\n=== Example 4: Loop through String ===")
