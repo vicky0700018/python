@@ -1,16 +1,17 @@
 # # ===== FOR LOOP PRACTICE =====
 
-# 1. Simple loop - Print numbers 1 to 5
-print("=== Example 1: Simple Loop ===")
-for i in range(0, 6):
-    print(i)
-    print("Hello,world!")
+# # 1. Simple loop - Print numbers 1 to 5
+# print("=== Example 1: Simple Loop ===")
+# for i in range(0, 6):
+#     print(i)
+#     print("Hello,world!")
 
-# # 2. Loop through a list
-# print("\n=== Example 2: Loop through List ===")
-# fruits = ["apple", "banana", "cherry", "date"]
-# for fruit in fruits:
-#     print(f"Fruit: {fruit}")
+# 2. Loop through a list
+print("\n=== Example 2: Loop through List ===")
+fruits = ["apple", "banana", "cherry", "date"]
+for fruit in fruits:
+    print(f"Fruit: {fruit}")
+    print("I love fruits!")
 
 # # 3. Loop with index
 # print("\n=== Example 3: Loop with Index ===")
