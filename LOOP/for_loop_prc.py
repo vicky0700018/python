@@ -13,19 +13,21 @@
 #     print(f"Fruit: {fruit}")
 #     print("I love fruits!")
 
-# 3. Loop with index
-print("\n=== Example 3: Loop with Index ===")
-colors = ["red", "green", "blue", "yellow"]
-for index, color in enumerate(colors):
-    print(f"{index}: {color}")
-    print("Colors are beautiful!")
+# # 3. Loop with index
+# print("\n=== Example 3: Loop with Index ===")
+# colors = ["red", "green", "blue", "yellow"]
+# for index, color in enumerate(colors):
+#     print(f"{index}: {color}")
+#     print("Colors are beautiful!")
     
 
-# # 4. Loop through string
-# print("\n=== Example 4: Loop through String ===")
-# word = "PYTHON"
-# for letter in word:
-#     print(letter)
+# 4. Loop through string
+print("\n=== Example 4: Loop through String ===")
+word = "PYTHON"
+for letter in word:
+    print(letter)
+    print("Learning loops!")
+    
 
 # # 5. Sum of numbers
 # print("\n=== Example 5: Sum of Numbers ===")
