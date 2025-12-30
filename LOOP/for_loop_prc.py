@@ -56,14 +56,14 @@
 #         print(num, end=" ")
 
 
-# # 9. Count occurrences
-# print("\n=== Example 9: Count Occurrences ===")
-# numbers = [1, 2, 3, 2, 4, 2, 5, 2]
-# count = 0
-# for num in numbers:
-#     if num == 2:
-#         count += 1
-# print(f"Number 2 appears {count} times")
+# 9. Count occurrences
+print("\n=== Example 9: Count Occurrences ===")
+numbers = [1, 2, 3, 2, 4, 2, 5, 2]
+count = 0
+for num in numbers:
+    if num == 2:
+        count += 1
+print(f"Number 2 appears {count} times")
 
 # # 10. Break and Continue
 # print("\n=== Example 10: Break and Continue ===")
