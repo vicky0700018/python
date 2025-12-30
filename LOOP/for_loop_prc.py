@@ -68,12 +68,12 @@
 # print(f"Number 4 appears {numbers.count(4)} times (using count method)")
 # print(f"Number 5 appears {numbers.count(5)} times (using count method)")
 
-# # 10. Break and Continue
-# print("\n=== Example 10: Break and Continue ===")
-# for i in range(1, 11):
-#     if i == 3:
-#         continue  # Skip 3
-#     if i == 8:
-#         break  # Stop at 8
-#     print(i, end=" ")
-# print()
+# 10. Break and Continue
+print("\n=== Example 10: Break and Continue ===")
+for i in range(1, 11):
+    if i == 3:
+        continue  # Skip 3
+    if i == 8:
+        break  # Stop at 8
+    print(i, end=" ")
+print()
