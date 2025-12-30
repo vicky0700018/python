@@ -29,18 +29,18 @@
 #     print("Learning loops!")
 
 
-# 5. Sum of numbers
-print("\n=== Example 5: Sum of Numbers ===")
-total = 0
-for num in range(1, 11):
-    total += num
-print(f"Sum of 1 to 10: {total}")
+# # 5. Sum of numbers
+# print("\n=== Example 5: Sum of Numbers ===")
+# total = 0
+# for num in range(1, 11):
+#     total += num
+# print(f"Sum of 1 to 10: {total}")
 
-# # 6. Multiplication table
-# print("\n=== Example 6: Multiplication Table ===")
-# num = 5
-# for i in range(1, 11):
-#     print(f"{num} × {i} = {num * i}")
+# 6. Multiplication table
+print("\n=== Example 6: Multiplication Table ===")
+num = 5
+for i in range(1, 11):
+    print(f"{num} × {i} = {num * i}")
 
 # # 7. Nested loops - Pattern
 # print("\n=== Example 7: Nested Loops - Pattern ===")
