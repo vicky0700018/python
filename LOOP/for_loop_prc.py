@@ -49,12 +49,12 @@
 #         print("*", end=" ")
 #     print()
 
-# # 8. Odd numbers from 1 to 20
-# print("\n=== Example 8: Odd Numbers ===")
-# for num in range(1, 21):
-#     if num % 2 != 0:
-#         print(num, end=" ")
-# print()
+# 8. Odd numbers from 1 to 20
+print("\n=== Example 8: Odd Numbers ===")
+for num in range(1, 21):
+    if num % 2 != 0:
+        print(num, end=" ")
+
 
 # # 9. Count occurrences
 # print("\n=== Example 9: Count Occurrences ===")
