@@ -72,7 +72,7 @@
 print("\n=== Example 10: Break and Continue ===")
 for i in range(1, 11):
     if i == 5:
-        continue  # Skip 3
+        continue  # Skip 5
     if i == 8:
         break  # Stop at 8
     print(i, end=" ")
