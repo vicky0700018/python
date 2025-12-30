@@ -58,12 +58,15 @@
 
 # 9. Count occurrences
 print("\n=== Example 9: Count Occurrences ===")
-numbers = [1, 2, 3, 2, 4, 2, 5, 2]
+numbers = [1, 2, 3, 2, 4, 2, 5, 2, 5, 3, 4, 2]
 count = 0
 for num in numbers:
     if num == 2:
         count += 1
 print(f"Number 2 appears {count} times")
+print(f"Number 3 appears {numbers.count(3)} times (using count method)")
+print(f"Number 4 appears {numbers.count(4)} times (using count method)")
+print(f"Number 5 appears {numbers.count(5)} times (using count method)")
 
 # # 10. Break and Continue
 # print("\n=== Example 10: Break and Continue ===")
