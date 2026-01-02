@@ -1,6 +1,6 @@
 # a=10
 a=1.1
-a= complex(8,2)
+a= complex(8+2j)
 b="vicky"
 
 c=True
