@@ -1,9 +1,12 @@
-a=10
-# b=10 
+# a=10
+a=1.1
+a= complex(8,2)
 b="vicky"
-# b=20
+
 c=True
 d=None
+# b=10 
+# b=20
 print(a,b)
 
 print(id(a),id(b))
