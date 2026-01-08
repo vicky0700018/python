@@ -17,7 +17,7 @@
 # print (f"type of d is {type(d)}") 
 
 
-dict1={"name":"vicky","age":24,"city":"bihar","phone":1234567890,"email":"vs@gmail.com"}
-print(dict1)
-print(type(dict1))
-print(id(dict1))
+# dict1={"name":"vicky","age":24,"city":"bihar","phone":1234567890,"email":"vs@gmail.com"}
+# print(dict1)
+# print(type(dict1))
+# print(id(dict1))
