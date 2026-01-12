@@ -3,13 +3,13 @@
 # print(a + b)  # 30 
 
 
-input() => it is used to take data from the user side .
-=> it is similar like scanf which is used in C language. 
-=> By default it gives us String value. 
-=> that's why we have to specify data type whatever we want in result.
+# input() => it is used to take data from the user side .
+# => it is similar like scanf which is used in C language. 
+# => By default it gives us String value. 
+# => that's why we have to specify data type whatever we want in result.
 
 
-scanf => it is used to take data from user. 
+# scanf => it is used to take data from user. 
 
 
 
