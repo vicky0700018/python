@@ -1,40 +1,51 @@
-# # ===== LISTS - EASY CODE =====
+# for loop => 
+# 1. check condition => true 
 
-# # Simple list
-# fruits = ["apple", "banana", "orange"]
-# print(fruits)
+# # # 2. execute some lines of code 
 
-# # List of numbers
-# numbers = [10, 20, 30, 40]
-# print(numbers)
+# # # 3. i ++
 
-# # Mixed list
-# mixed = [1, "hello", 3.14]
-# print(mixed)
+# # # for(int i = 0; i < 3 ; i++){       
+# # #    pritnf("Rudra");                                                 
+# # # }                                    
 
-# # Print individual items
-# print(fruits[0])    # apple
-# print(fruits[1])    # banana
-# print(numbers[2])   # 30
+# # for i in range(0,5):
+# #     print("Rudra") 
 
-# # Add item to list
-# fruits.append("mango")
-# print(fruits)
+# # # i = inistialization
+# # # condition 
+# # for i in range(10): 
+# #     print(i)
+# # # 0 1 2 3 4 5 6 7 8 9
 
-# # Remove item
-# fruits.remove("banana")
-# print(fruits)
+# # for i in range(1,11):
+# #     print(i)
+# # # 1 2 3 4 5 6 7 8 9 10
 
-# # Length of list
-# print(len(numbers))
+# # for i in range(0,11,2):
+# #     print(i)
 
-# # Loop through list
-# for fruit in fruits:
-#     print(fruit)
+# name = input("Enter your name : ")
+# age = int(input("Enter your age : "))
 
-# # Create list from input
-# my_list = []
-# my_list.append(5)
-# my_list.append(10)
-# my_list.append(15)
-# print(my_list)
+# print("Hello " , name ," you are ", age ," years old.")
+
+
+# for i in range(20,210,20):
+#             print(i)
+
+# i => Loop variable 
+# starting point => 20
+# ending point => 210 ( excluded)
+# 20,40,60,80,100,120,140,160,180,200
+
+i = 0
+
+while(i<10):
+     print(i)
+     i += 2
+
+# i +=1 or i = i + 1 = same
+# i => Loop variable
+# condition => i<10
+# increment => i += 2
