@@ -39,11 +39,11 @@
 # ending point => 210 ( excluded)
 # 20,40,60,80,100,120,140,160,180,200
 
-i = 0
+# i = 0
 
-while(i<10):
-     print(i)
-     i += 2
+# while(i<10):
+#      print(i)
+#      i += 2
 
 # i +=1 or i = i + 1 = same
 # i => Loop variable
