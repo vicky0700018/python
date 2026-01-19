@@ -20,11 +20,11 @@
 # insert() => it is used to add a single ement at the specified index.
 
 
-# my_listt = [10,20,30,40,50,60]
-# print("before applying any method: ", my_listt)
+my_listt = [10,20,30,40,50,60]
+print("before applying any method: ", my_listt)
 
-# my_listt.insert(0,33)
-# print("after applying any operation: ", my_listt)
+my_listt.insert(0,33)
+print("after applying any operation: ", my_listt)
 
 
 
