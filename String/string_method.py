@@ -1,8 +1,8 @@
 # 1. upper() => it is used to convert each and every character in uppercase of any string .
 
-# language = "python"
+language = "python"
 
-# print(language.upper())
+print(language.upper())
 
 # 2. lower() => it is used to convert each and every character in lower case of any string.
 
@@ -17,8 +17,8 @@
 
 # 4. len() => it returns the numbers of character in a string.
 
-# name = "Rudra"
-# print(len(name))
+name = "Rudra"
+print(len(name))
 
 
 # 5. index() => it returns the index of any character of any string.
