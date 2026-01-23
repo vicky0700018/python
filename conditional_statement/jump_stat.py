@@ -34,10 +34,10 @@
 
 
 
-# for i in range(13):
-#                     if i == 8:
-#                                         break
-#                     print(i)
+for i in range(13):
+                    if i == 8:
+                                        break
+                    print(i)
 
 
 
