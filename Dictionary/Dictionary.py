@@ -64,19 +64,52 @@
 
 
 
-dictionaryyy = { 
-                    "name" : "Rudra",  # here, name is key and Rudra is Value
-                    "roll" : 121,
-                    "email" : "rudra@gmail.com"
+# dictionaryyy = { 
+#                     "name" : "Rudra",  # here, name is key and Rudra is Value
+#                     "roll" : 121,
+#                     "email" : "rudra@gmail.com"
+# }
+
+# print(dictionaryyy)
+
+# print(dictionaryyy.keys())
+# print(dictionaryyy.values())
+
+# print(dictionaryyy.items())
+
+
+
+# please explore  pop and popitem , clear
+
+# disctionary pop, popitem, clear
+
+my_set= {
+    'name' : 'vicky',
+    'Age' : 17,
+    'Marks' : [20,30,20,19,30],
+    'percent' : 98.9,
+    'pass' : True
 }
 
-print(dictionaryyy)
+my_set.pop('Age')
+print("pop",my_set)
 
-print(dictionaryyy.keys())
-print(dictionaryyy.values())
+my_set2 = {
+    'name' : 'vicky',
+    'Age' : 17,
+    'Marks' : [20,30,20,19,30],
+    'percent' : 98.9,
+    'pass' : True
+}
+my_set2.popitem()
+print("Popitem",my_set2)
 
-print(dictionaryyy.items())
-
-
-
-# please explore  pop and popitem , clear 
+my_set3 = {
+    'name' : 'vicky',
+    'Age' : 17,
+    'Marks' : [20,30,20,19,30],
+    'percent' : 98.9,
+    'pass' : True
+}
+my_set3.clear()
+print("Clear",my_set3)
